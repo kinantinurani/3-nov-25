@@ -1,0 +1,2 @@
+ cara kerja yaitu program menentukan ukuran matriks Biasanya pengguna diminta untuk memasukkan berapa jumlah baris dan kolom yang akan digunakan setelah itu mengisi elemen-elemen dari matriks pertama kemudian mengisi elemen matriks ke dua jika sudah maka selanjutnya proses penjumlahan
+ Program menggunakan perulangan (loop) untuk menambahkan setiap elemen yang posisinya sama kemudian Terakhir, program menampilkan hasil penjumlahan matriks
